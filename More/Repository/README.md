@@ -14,7 +14,7 @@ de mão única entre o domínio e camadas de data mapping.
 
 ## Exemplos
 
-* Doctrine2 ORM: há um Repository que faz a medicação entre Entity e DBAL e 
+* Doctrine2 ORM: há um Repository que faz a mediação entre Entity e DBAL e 
 contém métodos para retornar objetos
 * Framework Laravel
 
