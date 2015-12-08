@@ -4,7 +4,7 @@
 
 O propósito primário do Padrão Facade (pronuncia-se "façade") não é evitar que 
 você leia o manual de uma API complexa. Isso é somente um efeito colateral. Seu 
-propósito primário é reduzir o acoplamento e seguir a [Lei de Demeter](http://pt.wikipedia.org/wiki/Usu%C3%A1rio(a)):Kunigami/Lei_de_Dem%C3%A9ter).
+propósito primário é reduzir o acoplamento e seguir a Lei de Demeter.
 
 Um Facade pretende desacoplar um cliente e um subsistema ao fazer embedding de 
 várias interfaces (mas às vezes pode ser somente uma) e, claro, reduzir 
